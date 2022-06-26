@@ -1,7 +1,3 @@
-# Exercise 5
-
-Hand in until: **May 31st at 23.59**
-
 ## Introduction
 
 This exercise is all about algorithms. You will implement recursive algorithms and their dynamic solutions, as well as a sorting algorithm.
